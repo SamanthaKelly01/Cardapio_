@@ -1,0 +1,74 @@
+body {
+    background-image: url(macarron3.jpg);
+    margin: 0x;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+ul,
+h3 {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 20px;
+}
+
+header h1,
+h4 {
+    margin: 10px 20px;
+}
+
+header spam {
+    color: rgba(188, 106, 156);
+}
+
+header {
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+header,
+section {
+    max-width: 300px;
+    border: 2px solid rgb(135, 22, 96, 0.5);
+    padding: 0px 20px;
+    background-color: rgba(234, 225, 227, 0.699);
+}
+
+section h2 {
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: rgba(188, 106, 156, 0.87);
+    color: rgb(237, 225, 225);
+}
+
+section {
+    margin-top: 10px;
+    font-family: 'Tiro Gurmukhi', serif;
+    line-height: 1.4;
+
+}
+
+ul li {
+    display: flex;
+}
+
+.details h3 {
+    text-decoration: underline;
+}
+
+img {
+    color: white;
+    size: 16px;
+}
+
+/* RESPONSIVE */
+@media only screen and (max-width: {
+    
+}
